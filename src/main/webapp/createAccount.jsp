@@ -1,5 +1,7 @@
 <html>
 <body>
+<%@ include file="navbar.jsp" %>
+
 
 <h1>Konto anlegen</h1>
 

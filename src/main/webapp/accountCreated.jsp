@@ -2,6 +2,7 @@
 
 <html>
 <body>
+<%@ include file="navbar.jsp" %>
 <% if(success){ %>
 <h2>Account added to the database.</h2>
 

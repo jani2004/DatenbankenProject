@@ -4,6 +4,7 @@
 
 <html>
 <body>
+<%@ include file="navbar.jsp" %>
 
 <h1>Bank Account</h1>
 

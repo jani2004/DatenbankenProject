@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
+<%@ include file="navbar.jsp" %>
 
 <h1>Search for BankAccount</h1>
 

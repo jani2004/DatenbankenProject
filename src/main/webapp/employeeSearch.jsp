@@ -4,6 +4,7 @@
     <title>Employee Search</title>
 </head>
 <body>
+<%@ include file="navbar.jsp" %>
 
 <h1>Employee Search</h1>
 

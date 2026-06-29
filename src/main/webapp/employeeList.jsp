@@ -10,6 +10,7 @@
     <title>Employees</title>
 </head>
 <body>
+<%@ include file="navbar.jsp" %>
 
 <h1>All Employees</h1>
 

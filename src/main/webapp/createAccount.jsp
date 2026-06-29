@@ -3,7 +3,7 @@
 <%@ include file="navbar.jsp" %>
 
 
-<h1>Konto anlegen</h1>
+<h1>Create account</h1>
 
 <form action="createAccount"
       method="post">

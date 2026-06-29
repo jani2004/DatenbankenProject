@@ -6,9 +6,11 @@
   To change this template use File | Settings | File Templates.
 --%>
 <div style="background-color: #e0e0e0; padding: 10px; border-bottom: 2px solid #ccc; margin-bottom: 20px;">
-<b>Navigation:</b>
-<a href="employeeSearch.jsp">Search employee</a> |
-<a href="employees">All employees</a> |
-<a href="accountSearch.jsp">Search account</a> |
-<a href="createAccount.jsp">Create account</a>
+    <b>Navigation:</b>
+    <a href="index.jsp">Home</a> |
+    <a href="employeeSearch.jsp">Search employee</a> |
+    <a href="employeeCreate.jsp">Create employee</a> |
+    <a href="employees">All employees</a> |
+    <a href="accountSearch.jsp">Search account</a> |
+    <a href="AccountListServlet">All accounts</a>
 </div>

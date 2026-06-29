@@ -13,6 +13,8 @@
 </h2>
 
 <% } %>
+<br><br>
+<a href="employeeSearch.jsp">Back</a>
 
 </body>
 </html>
